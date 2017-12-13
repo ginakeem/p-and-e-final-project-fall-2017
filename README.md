@@ -46,4 +46,13 @@ Photos and videos of your completed final project!
 
 ## References and links
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+- http://www.instructables.com/id/Programmable-LED-Firefly-Jar/ 
+- http://www.instructables.com/id/Interactive-Ambient-Light/ 
+- http://www.instructables.com/id/Interactive-Geodesic-LED-Dome/ 
+- http://www.instructables.com/id/Interactive-Thunder-and-Lightning-Cloud/ 
+- http://www.instructables.com/id/Jar-of-Fireflies/ 
+- https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/
+- https://github.com/danasf/attiny_pixel_switch/blob/master/attiny_pixel_touch.ino
+- https://github.com/moderndevice/CapSense/blob/master/Examples/CapTouch/CapTouch.ino
+- http://www.instructables.com/id/Magic-Light-Capacitance-Sensor-first-ardino-proj/
+- https://playground.arduino.cc/Main/CapacitiveSensor?from=Main.CapSense
