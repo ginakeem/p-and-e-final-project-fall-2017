@@ -42,7 +42,7 @@ What did you do in each of the past five weeks?
 
 ## Completed Work
 
-Photos and videos of your completed final project!
+
 
 ## References and links
 
